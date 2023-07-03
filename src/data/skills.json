@@ -1,0 +1,227 @@
+
+[
+    {
+        "id": 1,
+        
+        "title": "Github",
+        "images": "/../src/assets/logo/github-sign.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 75,
+        "rating": "4",
+        "style": {
+            "aos": "fade-right"
+        }
+    },
+    {
+        "id": 3,
+        "title": "JavaScript",
+        "images": "/../src/assets/logo/js.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 80,
+        "rating": 4,
+        "style": {
+            "aos": "fade-down"
+        }
+    },
+    {
+        "id": 4,
+        "title": "React",
+        "images": "/../src/assets/logo/physics.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 80,
+        "rating": 4,
+        "style": {
+            "aos": "fade-left"
+        }
+    },
+    {
+        "id": 2,
+        
+        "title": "Express JS",
+        "images": "/../src/assets/logo/express.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 55,
+        "rating": 3,
+        "style": {
+            "aos": "fade-up"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Node JS",
+        "images": "/../src/assets/logo/nodejs.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 60,
+        "rating": 4,
+        "style": {
+            "aos": "fade-up",
+            "center": "mx-auto"
+        }
+    },
+    {
+        "id": 6,
+        "title": "CSS",
+        "images": "/../src/assets/logo/css-3.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 70,
+        "rating": 4,
+        "style": {
+            "aos": "fade-left"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Tailwind CSS",
+        "images": "/../src/assets/logo/tailwind.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 80,
+        "rating": 4,
+        "style": {
+            "aos": "fade-up"
+        }
+    },
+    {
+        "id": 8,
+        "title": "JWT",
+        "images": "/../src/assets/logo/jwt.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 80,
+        "rating": 4,
+        "style": {
+            "aos": "fade-right"
+        }
+    },
+    {
+        "id": 9,
+        "title": "MongoDB",
+        "images": "/../src/assets/logo/mongodb.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 70,
+        "rating": 4,
+        "style": {
+            "aos": "fade-down"
+        }
+    },
+    {
+        "id": 10,
+        "title": "Firebase",
+        "images": "/../src/assets/logo/firebase.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 80,
+        "rating": 4,
+        "style": {
+            "aos": "fade-down"
+        }
+    },
+    {
+        "id": 11,
+        "title": "Tanstack Query",
+        "images": "/../src/assets/logo/tanstack.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 50,
+        "rating": 3,
+        "style": {
+            "aos": "fade-right"
+        }
+    },
+    {
+        "id": 12,
+        "title": "Next JS",
+        "images": "/../src/assets/logo/next.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 50,
+        "rating": 3,
+        "style": {
+            "aos": "fade-down"
+        }
+    },
+    {
+        "id": 13,
+        "title": "Typescript",
+        "images": "/../src/assets/logo/typescript.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 50,
+        "rating": 3,
+        "style": {
+            "aos": "fade-left"
+        }
+    },
+    {
+        "id": 14,
+        "title": "Redux",
+        "images": "/../src/assets/logo/redux.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 50,
+        "rating": 3,
+        "style": {
+            "aos": "fade-up"
+        }
+    }
+    ,
+    {
+        "id": 15,
+        "title": "Bootstrap",
+        "images": "/../src/assets/logo/bootstrap.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 60,
+        "rating": 3,
+        "style": {
+            "aos": "fade-up"
+        }
+    },
+    {
+        "id": 16,
+        "title": "HTML",
+        "images": "/../src/assets/logo/html-5.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 80,
+        "rating": 4,
+        "style": {
+            "aos": "fade-left"
+        }
+    },
+    {
+        "id": 17,
+        "title": "Netlify",
+        "images": "/../src/assets/logo/netlify.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 70,
+        "rating": 4,
+        "style": {
+            "aos": "fade-up"
+        }
+    },
+    {
+        "id": 18,
+        "title": "Vercel",
+        "images": "/../src/assets/logo/vercel.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 70,
+        "rating": 3,
+        "style": {
+            "aos": "fade-right"
+        }
+    },
+    {
+        "id": 19,
+        "title": "Figma",
+        "images": "/../src/assets/logo/figma.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 60,
+        "rating": 3,
+        "style": {
+            "aos": "fade-down"
+        }
+    },
+    {
+        "id": 20,
+        "title": "VS Code",
+        "images": "/../src/assets/logo/visual-studio.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "health": 80,
+        "rating": 4,
+        "style": {
+            "aos": "fade-down"
+        }
+    }
+]
