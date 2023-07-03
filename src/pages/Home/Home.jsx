@@ -20,7 +20,7 @@ const Home = () => {
         <h1 className='text-xl lg:text-4xl font-bold'>{`Hello, I'm Sk Shiam Ali`}</h1>
         <h6>Web Developer</h6>
         <p className='lg:w-7/12 w-3/5 hidden lg:block mt-2'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse ducimus magnam ea nihil vel autem. Assumenda mollitia quo officia itaque! Accusantium quibusdam sapiente, nisi magnam reiciendis aspernatur. Incidunt, temporibus atque!</p>
-        <p className='lg:w-7/12 w-3/5 lg:hidden'>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+        <p className='lg:w-7/12 w-full lg:hidden'>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
         <div className='lg:mt-5 mt-2'>
           <a className='btn btn-outline mr-3 lg:btn-xl btn-sm' href="/src/assets/Black and White Minimalist Professional Resume (11).pdf" target='_blank'><TbExternalLink className='text-2xl'></TbExternalLink>View Resume</a>
           <a className='btn btn-outline btn-sm lg:btn-2xl' href="/src/assets/Black and White Minimalist Professional Resume (11).pdf" download={true}><BiSolidDownload className='text-2xl'></BiSolidDownload> Download Resume</a>

@@ -14,7 +14,7 @@ const Projects = () => {
                             <figure className='lg:w-1/2 w-full hover:scale-125 duration-500 object-cover'><img src={a?.images} className='' alt="Album" /></figure>
                             <div className="card-body">
                                 <h2 className="card-title">{a?.name}</h2>
-                                <p className='lg:w-[540px]'>{a?.description}</p>
+                                <p className='lg:w-[540px] hidden lg:block'>{a?.description}</p>
                                 
                                 <div className="card-actions justify-end">
                                     {a?.code && <a href={a?.code} target='_blank' rel="noreferrer" className='btn btn-outline'><AiFillGithub className='mr-2 text-2xl'></AiFillGithub>View Code</a>}
