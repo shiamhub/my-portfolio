@@ -16,10 +16,15 @@ const Projects = () => {
                                 <h2 className="card-title">{a?.name}</h2>
                                 <p className='lg:w-[540px] hidden lg:block'>{a?.description}</p>
                                 
-                                <div className="card-actions justify-end">
+                                <div className="card-actions justify-end hidden lg:block">
                                     {a?.code && <a href={a?.code} target='_blank' rel="noreferrer" className='btn btn-outline'><AiFillGithub className='mr-2 text-2xl'></AiFillGithub>View Code</a>}
                                     {a?.server && <a href={a?.server} target='_blank' rel="noreferrer" className='btn btn-outline'><CiServer className='mr-2 text-2xl'></CiServer>View Server</a>}
                                     {a?.live && <a href={a?.live} target='_blank' rel="noreferrer" className='btn btn-outline'><AiOutlineDeliveredProcedure className='mr-2 text-2xl'></AiOutlineDeliveredProcedure>View WebSide</a>}
+                                </div>
+                                <div className="card-actions justify-end lg:hidden">
+                                    {a?.code && <a href={a?.code} target='_blank' rel="noreferrer" className='btn btn-outline btn-sm'><AiFillGithub className='mr-2 text-2xl'></AiFillGithub>View Code</a>}
+                                    {a?.server && <a href={a?.server} target='_blank' rel="noreferrer" className='btn btn-outline btn-sm'><CiServer className='mr-2 text-2xl'></CiServer>View Server</a>}
+                                    {a?.live && <a href={a?.live} target='_blank' rel="noreferrer" className='btn btn-outline btn-sm'><AiOutlineDeliveredProcedure className='mr-2 text-2xl'></AiOutlineDeliveredProcedure>View WebSide</a>}
                                 </div>
                             </div>
                         </div>
