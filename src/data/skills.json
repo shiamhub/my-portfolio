@@ -4,7 +4,7 @@
         "id": 1,
         
         "title": "Github",
-        "images": "/../src/assets/logo/github-sign.png",
+        "images": "./../src/assets/logo/github-sign.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 75,
         "rating": "4",
@@ -15,7 +15,7 @@
     {
         "id": 3,
         "title": "JavaScript",
-        "images": "/../src/assets/logo/js.png",
+        "images": "./../src/assets/logo/js.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 80,
         "rating": 4,
