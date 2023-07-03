@@ -57,7 +57,7 @@ const Skills = () => {
                                             </div>
                                         </span>
                                         <div className="grid place-items-center">
-                                            <img className=" rounded-xl" src={a.images} alt="logo" />
+                                            <img className=" rounded-xl" src={`${a.images}`} alt="logo" />
                                         </div>
                                     </div>
                                     <div className="flex flex-col items-center mt-8 lg:mt-0">

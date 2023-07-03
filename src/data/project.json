@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Sports Camp",
-        "images": "./../../src/assets/Screenshot 2023-06-29 211403.png",
+        "images": "./../../assets/Screenshot 2023-06-29 211403.png",
         "live": "https://assignment-12-5c7be.web.app/",
         "code": "https://github.com/shiamhub/sports-camp-client",
         "server": "https://github.com/shiamhub/sports-camp-server",
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "name": "Hero Toy",
-        "images": "./../../src/assets/Screenshot 2023-06-29 212549.png",
+        "images": "./../../assets/Screenshot 2023-06-29 212549.png",
         "live": "https://assignment-11-f6226.web.app/",
         "code": "https://github.com/shiamhub/hero-toy-client",
         "server": "https://github.com/shiamhub/hero-toy-server",
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "name": "food Chef",
-        "images": "./../../src/assets/Screenshot 2023-06-29 212903.png",
+        "images": "./../../assets/Screenshot 2023-06-29 212903.png",
         "live": "https://assignment-10-9c0f4.web.app/",
         "code": "https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-shiamhub",
         "description": "Voluptatibus sit nam dolor vero sapiente, recusandae numquam vitae hic voluptas officia explicabo, quod nulla excep Voluptatibus sit nam dolor vero sapiente, recusandae numquam vitae hic voluptas officia explicabo, quod nulla excep Voluptatibus sit nam dolor vero sapiente, recusandae numquam vitae hic voluptas officia explicabo, quod nulla excep"
