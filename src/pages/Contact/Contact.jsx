@@ -38,6 +38,7 @@ const Contact = () => {
                         <textarea className="textarea textarea-bordered h-24" placeholder="Bio"></textarea>
 
                     </div>
+                    <input type="submit" value="Submit" className="btn btn-primary mt-5" name="" id="" />
                 </div>
             </div>
 
