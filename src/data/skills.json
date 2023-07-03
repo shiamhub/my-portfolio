@@ -1,8 +1,10 @@
+
+
 [
     {
         "id": 1,
         "title": "Github",
-        "images": "./../../assets/logo/github-sign.png",
+        "images": "https://i.ibb.co/hX7zhbB/github-sign.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 75,
         "rating": "4",
@@ -13,7 +15,7 @@
     {
         "id": 3,
         "title": "JavaScript",
-        "images": "./../../assets/logo/js.png",
+        "images": "https://i.ibb.co/8nCh4fL/js.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 80,
         "rating": 4,
@@ -24,7 +26,7 @@
     {
         "id": 4,
         "title": "React",
-        "images": "./../../assets/logo/physics.png",
+        "images": "https://i.ibb.co/1RDnzyd/physics.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 80,
         "rating": 4,
@@ -35,7 +37,7 @@
     {
         "id": 2,
         "title": "Express JS",
-        "images": "./../../assets/logo/express.png",
+        "images": "https://i.ibb.co/mXqDRgp/express.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 55,
         "rating": 3,
@@ -46,7 +48,7 @@
     {
         "id": 5,
         "title": "Node JS",
-        "images": "./../../assets/logo/nodejs.png",
+        "images": "https://i.ibb.co/XsZsxBH/nodejs.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 60,
         "rating": 4,
@@ -58,7 +60,7 @@
     {
         "id": 6,
         "title": "CSS",
-        "images": "./../../assets/logo/css-3.png",
+        "images": "https://i.ibb.co/S5wpwKc/css-3.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 70,
         "rating": 4,
@@ -69,7 +71,7 @@
     {
         "id": 7,
         "title": "Tailwind CSS",
-        "images": "./../../assets/logo/tailwind.png",
+        "images": "https://i.ibb.co/tZPkz96/tailwind.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 80,
         "rating": 4,
@@ -80,7 +82,7 @@
     {
         "id": 8,
         "title": "JWT",
-        "images": "./../../assets/logo/jwt.png",
+        "images": "https://i.ibb.co/s3zmNLx/jwt.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 80,
         "rating": 4,
@@ -91,7 +93,7 @@
     {
         "id": 9,
         "title": "MongoDB",
-        "images": "./../../assets/logo/mongodb.png",
+        "images": "https://i.ibb.co/Ychtgx2/mongodb.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 70,
         "rating": 4,
@@ -102,7 +104,7 @@
     {
         "id": 10,
         "title": "Firebase",
-        "images": "./../../assets/logo/firebase.png",
+        "images": "https://i.ibb.co/ygCFTdV/firebase.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 80,
         "rating": 4,
@@ -113,7 +115,7 @@
     {
         "id": 11,
         "title": "Tanstack Query",
-        "images": "./../../assets/logo/tanstack.png",
+        "images": "https://i.ibb.co/ryprwkq/tanstack.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 50,
         "rating": 3,
@@ -124,7 +126,7 @@
     {
         "id": 12,
         "title": "Next JS",
-        "images": "./../../assets/logo/next.png",
+        "images": "https://i.ibb.co/VpJBTb6/next.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 50,
         "rating": 3,
@@ -135,7 +137,7 @@
     {
         "id": 13,
         "title": "Typescript",
-        "images": "./../../assets/logo/typescript.png",
+        "images": "https://i.ibb.co/ctg6nvp/typescript.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 50,
         "rating": 3,
@@ -146,7 +148,7 @@
     {
         "id": 14,
         "title": "Redux",
-        "images": "./../../assets/logo/redux.jpg",
+        "images": "https://i.ibb.co/0KFb3MB/redux.jpg",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 50,
         "rating": 3,
@@ -157,7 +159,7 @@
     {
         "id": 15,
         "title": "Bootstrap",
-        "images": "./../../assets/logo/bootstrap.png",
+        "images": "https://i.ibb.co/YNvSKVw/bootstrap.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 60,
         "rating": 3,
@@ -168,7 +170,7 @@
     {
         "id": 16,
         "title": "HTML",
-        "images": "./../../assets/logo/html-5.png",
+        "images": "https://i.ibb.co/kybscFB/html-5.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 80,
         "rating": 4,
@@ -179,7 +181,7 @@
     {
         "id": 17,
         "title": "Netlify",
-        "images": "./../../assets/logo/netlify.png",
+        "images": "https://i.ibb.co/2SYpyJN/netlify.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 70,
         "rating": 4,
@@ -190,7 +192,7 @@
     {
         "id": 18,
         "title": "Vercel",
-        "images": "./../../assets/logo/vercel.png",
+        "images": "https://i.ibb.co/Lz188Cz/vercel.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 70,
         "rating": 3,
@@ -201,7 +203,7 @@
     {
         "id": 19,
         "title": "Figma",
-        "images": "./../../assets/logo/figma.png",
+        "images": "https://i.ibb.co/gPqL6Jm/figma.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 60,
         "rating": 3,
@@ -212,7 +214,7 @@
     {
         "id": 20,
         "title": "VS Code",
-        "images": "./../../assets/logo/visual-studio.png",
+        "images": "https://i.ibb.co/D1qgbnk/visual-studio.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "health": 80,
         "rating": 4,
